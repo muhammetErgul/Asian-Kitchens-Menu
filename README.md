@@ -2,4 +2,4 @@
 
 ![menu](img/ss.png)
 
-### [Kodluyoruz](https://kodluyoruz.org)
+### [patika](https://app.patika.dev/paths)
